@@ -1,1 +1,1 @@
-- React Shopping Cart
+<h2>React Shopping Cart</h2>
