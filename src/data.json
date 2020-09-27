@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "_id": "item1",
+      "title": "GOBLES",
+      "image": "https://m.media-amazon.com/images/I/51jVK35I9VL._SEARCH281250_AC_UL320_.jpg",
+      "price": 18.9,
+      "desription": "Womens Sexy Bodycon Cut Out Sleeveless Outfit Mini Club Tank Dress",
+      "availableSizes": ["Xs", "Sm", "Med", "XXL"]
+    },
+    {
+      "_id": "item2",
+      "title": "Aro Lora",
+      "image": "https://m.media-amazon.com/images/I/716sRG968RL._SEARCH281250_AC_UL320_.jpg",
+      "price": 32.8,
+      "description": "Women's Sexy V Neck Floral Printed Side Slit Two-Piece Maxi Dress",
+      "availableSizes": ["XL", "XXL"]
+    },
+    {
+      "_id": "item3",
+      "title": "BIUBIU",
+      "image": "https://m.media-amazon.com/images/I/71PDPe6Q5dL._SEARCH281250_AC_UL320_.jpg",
+      "price": 24.3,
+      "description": "Women's Boho Floral Halter Summer Beach Party Split Cover Up Dress S-XL",
+      "availableSizes": ["Sm", "Med", "XL", "XXL"]
+    },
+    {
+      "_id": "item4",
+      "title": "SheIn",
+      "image": "https://m.media-amazon.com/images/I/615KXo+IM2L._AC_UL320_.jpg",
+      "price": 16.5,
+      "description": "Women's Self Tie Ruffle Trim Dobby Mesh Lingerie Set Sexy Bra and Panty",
+      "availableSizes": ["Med", "XL", "XXL"]
+    },
+
+    {
+      "_id": "item5",
+      "title": "PRETTYGARDEN",
+      "image": "https://m.media-amazon.com/images/I/6180saqPUIL._AC_UL320_.jpg",
+      "price": 26.8,
+      "description": "Women's Summer Casual Off Shoulder Long Lace up Jumpsuit Rompers",
+      "availableSizes": ["Xs", "Sm", "Med"]
+    },
+    {
+      "_id": "item6",
+      "title": "Avidlove",
+      "image": "https://m.media-amazon.com/images/I/717VoRYf8zL._AC_UL320_.jpg",
+      "price": 15.2,
+      "description": "Womens One Piece Lingerie Lace Halter Teddy Bodysuit V Neck Babydoll",
+      "availableSizes": ["Xs"]
+    },
+    {
+      "_id": "item7",
+      "title": "Angsuttc",
+      "image": "https://m.media-amazon.com/images/I/61PiKkulzqL._AC_UL320_.jpg",
+      "price": 30.9,
+      "description": "Women's Velvet 2 Piece Outfit Spaghetti Strap Sleeveless Crop Top+ ",
+      "availableSizes": ["XL", "XXL"]
+    },
+
+    {
+      "_id": "item8",
+      "title": "Nimsruc",
+      "image": "https://m.media-amazon.com/images/I/514ag6dOtqL._AC_UL320_.jpg",
+      "price": 28.5,
+      "description": "Women's 2 Piece Outfits Summer Casual Print Bodycon Shorts Pant Set",
+      "availableSizes": ["Med", "XL", "XXL"]
+    },
+    {
+      "_id": "item9",
+      "title": "Avidlove",
+      "image": "https://m.media-amazon.com/images/I/71sYSElSKtL._AC_UL320_.jpg",
+      "price": 15.9,
+      "description": "Women Babydoll for Women Satin Nightwear Lace Chemise Sexy ",
+      "availableSizes": ["Xs", "Sm"]
+    },
+    {
+      "_id": "item10",
+      "title": "PRETTYGARDEN",
+      "image": "https://m.media-amazon.com/images/I/61BRZYNBv6L._SEARCH281250_AC_UL320_.jpg",
+
+      "price": 11.5,
+      "description": "Women's Two Pieces Leopard Print Knot Front Crop Off-Shoulder High Cut ",
+      "availableSizes": ["Med", "XL", "XXL"]
+    },
+    {
+      "_id": "item11",
+      "title": "TOB",
+      "image": "https://m.media-amazon.com/images/I/51vCFZXTyrL._SEARCH281250_AC_UL320_.jpg",
+
+      "price": 20.3,
+      "description": "Women's Sexy Pleated Sleeveless Spaghetti Strap Mini Club Dress ",
+      "availableSizes": ["Med"]
+    },
+    {
+      "_id": "item12",
+      "title": "Ophestin",
+      "image": "https://m.media-amazon.com/images/I/61M5PWd4wuL._AC_UL320_.jpg",
+      "price": 23.9,
+      "description": "Womens Zipper Halter Sleeveless Cutout Irregular Club Jumpsuit Rompers ",
+      "availableSizes": ["Xs", "Sm", "Med", "XL", "XXL"]
+    },
+    {
+      "_id": "item13",
+      "title": "SIAEAMRG",
+      "image": "https://m.media-amazon.com/images/I/71sSGSJeXmL._AC_UL320_.jpg",
+      "price": 22.8,
+      "description": "Women's Velvet 2 Piece Outfit Tracksuit, Casual Spaghetti Strap Sleeveless Crop  ",
+      "availableSizes": ["Xs", "Sm", "Med", "XL", "XXL"]
+    },
+    {
+      "_id": "item14",
+      "title": "SxClub",
+      "image": "https://m.media-amazon.com/images/I/61bofhtssJL._AC_UL320_.jpg",
+      "price": 29.7,
+      "description": "Women's Sexy Sleeveless Strap Rompers Bodycon Scoop Neck Ruffles ",
+      "availableSizes": ["Xs", "Sm", "Med", "XL", "XXL"]
+    },
+    {
+      "_id": "item15",
+      "title": "lexiart",
+      "image": "https://m.media-amazon.com/images/I/61O5B0h7S6L._SEARCH281250_AC_UL320_.jpg",
+
+      "price": 30.0,
+      "description": "Romper Split Maxi Dress High Elasticity Floral Print Short Jumpsuit Overlay ",
+      "availableSizes": ["Xs", "Sm", "Med", "XL", "XXL"]
+    },
+    {
+      "_id": "item16",
+      "title": "L'VOW",
+      "image": "https://m.media-amazon.com/images/I/61xxFB8Np7L._SEARCH281250_AC_UL320_.jpg",
+
+      "price": 25.6,
+      "description": "Women's Glitter Sexy Deep V Neck Sequin Beaded Halter Bodycon Mini ",
+      "availableSizes": ["Xs", "Sm", "Med", "XL", "XXL"]
+    },
+    {
+      "_id": "item17",
+      "title": "Relipop",
+      "image": "https://m.media-amazon.com/images/I/61YvKwQ3rxL._SEARCH281250_AC_UL320_.jpg",
+
+      "price": 19.9,
+      "description": "Women's Strap Crop Top Outfit Two Piece Backless Bandage Bodycon Midi ",
+      "availableSizes": ["Xs", "Sm", "Med", "XL", "XXL"]
+    },
+    {
+      "_id": "item18",
+      "title": "LAGSHIAN",
+      "image": "https://m.media-amazon.com/images/I/51c7XXTX-1L._SEARCH281250_AC_UL320_.jpg",
+
+      "price": 19.9,
+      "description": "Women's Strap Crop Top Outfit Two Piece Backless Bandage Bodycon Midi ",
+      "availableSizes": ["Xs", "Sm", "Med", "XL", "XXL"]
+    },
+    {
+      "_id": "item19",
+      "title": "Uni Clau",
+      "image": "https://m.media-amazon.com/images/I/61eDSC1konL._AC_UL320_.jpg",
+      "price": 26.4,
+      "description": "Womens Causal Short Sleeve Color Block T Shirt Bodycon Pant Set Two ",
+      "availableSizes": ["Xs", "Sm", "Med", "XL", "XXL"]
+    }
+  ]
+}
