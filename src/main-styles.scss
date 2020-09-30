@@ -8,6 +8,7 @@ body,
   height: 100vh;
   margin: 0;
   font-family: "Asul", sans-serif;
+  background-color: rgb(247, 239, 239);
 }
 body,
 input,
@@ -26,16 +27,47 @@ textarea {
   grid-template-rows: 5rem 1fr 5rem;
   grid-template-columns: 1fr;
   height: 100%;
+  .home-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    img {
+      max-width: 90rem;
+      align-self: center;
+      margin-top: 15rem;
+    }
+    button {
+      padding: 20px;
+      width: 25rem;
+      font-size: 2rem;
+      text-transform: capitalize;
+      transition: 2s;
+      margin: -10rem auto;
+      align-self: center;
+      background: white;
+      color: black;
+      border: 1px solid black;
+      cursor: pointer;
+      &:hover {
+        background-color: black;
+        color: white;
+      }
+    }
+  }
   header {
     grid-area: header;
     background-color: rgb(52, 54, 68);
     color: ghostwhite;
     display: flex;
+    justify-content: space-around;
     align-items: center;
     padding: 0.5rem;
-    a {
+    font-size: 2rem;
+    p {
       color: ghostwhite;
       text-decoration: none;
+      cursor: pointer;
       &:hover {
         color: rgb(235, 146, 74);
       }
@@ -118,5 +150,35 @@ textarea {
     .button.primary {
       background-color: #f0c040;
     }
+  }
+}
+.checkout-section {
+  display: flex;
+  flex-direction: column;
+  font-family: "Advent Pro", sans-serif;
+  background-color: rgb(255, 255, 255);
+  margin: 5rem;
+  border-radius: 30px;
+  box-shadow: 0px 0px 20px 10px rgba(black, 0.089);
+  #creditCardBox {
+    margin-top: 2rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    background: rgba(121, 34, 34, 0);
+    align-items: center;
+    input {
+      padding: 0.4rem;
+      width: 20rem;
+    }
+  }
+  button {
+    margin-top: 1.6rem;
+    background-color: rgba(255, 255, 255, 0);
+    outline: none;
+    border: 1px solid black;
+    padding: 0.5rem;
+    width: 15rem;
+    cursor: pointer;
   }
 }
