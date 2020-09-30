@@ -10,8 +10,9 @@
 <p>This project uses npm. Use npm install in the /shoppingcart directory. More info in shoppingcart/README.md</p>
 
 <h3>Libraries Used</h3>
-React
-react-router
-react-router-dom
-sass
+<ul>
+<li>React</li>
+<li>react-router</li>
+<li>react-router-dom</li>
+<li>sass</li></ul>
 
