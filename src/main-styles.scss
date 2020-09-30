@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Asul&display=swap");
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+body,
+#root {
+  height: 100vh;
+  margin: 0;
+  font-family: "Asul", sans-serif;
+}
+body,
+input,
+select,
+button,
+textarea {
+  font-size: 1.6rem;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    "header"
+    "main"
+    "footer";
+  grid-template-rows: 5rem 1fr 5rem;
+  grid-template-columns: 1fr;
+  height: 100%;
+  header {
+    grid-area: header;
+    background-color: rgb(52, 54, 68);
+    color: ghostwhite;
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    a {
+      color: ghostwhite;
+      text-decoration: none;
+      &:hover {
+        color: rgb(235, 146, 74);
+      }
+    }
+  }
+  main {
+    grid-area: main;
+  }
+  footer {
+    grid-area: footer;
+    background-color: rgb(52, 54, 68);
+    color: ghostwhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .content {
+    display: flex;
+    flex-wrap: wrap;
+    .main {
+      flex: 3 60rem;
+    }
+    .sidebar {
+      flex: 1 20rem;
+    }
+  }
+}
+
+.products {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  .product {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 2rem;
+
+    .titles {
+      text-align: center;
+      a {
+        text-decoration: none;
+      }
+    }
+    li {
+      flex: 0 1 29rem;
+      height: 47rem;
+      padding: 1rem;
+    }
+    img {
+      max-width: 32rem;
+      max-height: 37rem;
+    }
+  }
+  .product-price {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-self: center;
+    text-align: center;
+    flex: 1;
+    font-size: 2rem;
+    button {
+      text-align: center;
+      flex: 1;
+    }
+    .button {
+      padding: 1rem;
+      border: 0.1rem #c0c0c0 solid;
+      background-color: #f0f0f0;
+      cursor: pointer;
+      &:hover {
+        border: 0.1rem #808080 solid;
+      }
+    }
+    .button.primary {
+      background-color: #f0c040;
+    }
+  }
+}
